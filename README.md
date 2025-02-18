@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luan4096
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Software development
+- 🌱 I have an engineering degree in Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 My email : luan4096@gmail.com
